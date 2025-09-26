@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    background-color: white;
+    /* font-size: 15px;     */
+}
+
+.contenedor-encabezado{
+    background-color: black;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+
+.foto-perfil{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.contenedor-global-contenido{
+    margin-top: 24px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.contenedor-estudios{
+    margin-bottom: 24px;   
+    border-bottom: 1px solid black;
+}
+
+.titulo{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.foto-icono{
+    width: 40px;
+    border: 1px solid black;
+    border-radius: 30%;
+    padding: 10px;
+}
+
+.h2-icono{
+    margin:20px;
+}
+
+ul{
+    padding-left: 400px;
+    font-size: 24px;
+}
+
+li{
+    list-style: none;
+}
